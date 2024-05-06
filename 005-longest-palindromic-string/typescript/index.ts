@@ -13,5 +13,3 @@ function longestPalindrome(s: string): string {
 
     return s[0]
 };
-
-console.log('output', longestPalindrome('kkkkk araras mano'))
